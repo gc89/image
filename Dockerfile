@@ -1,1 +1,1 @@
-FROM  redis:7.0.11
+FROM  mariadb:10.6.14
