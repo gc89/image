@@ -1,1 +1,1 @@
-FROM  ceph/ceph:v16
+FROM  redis:7.0.11
