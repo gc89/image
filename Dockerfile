@@ -1,1 +1,1 @@
-FROM  docker.io/bitnami/jenkins:2.401.1-debian-11-r1
+FROM  docker.io/mariadb:10.6.14
