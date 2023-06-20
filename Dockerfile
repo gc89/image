@@ -1,1 +1,1 @@
-FROM  mariadb:10.6.14
+FROM busybox:1.36.1
