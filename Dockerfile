@@ -1,1 +1,1 @@
-FROM registry.k8s.io/nginx-slim:0.8
+FROM registry:2
