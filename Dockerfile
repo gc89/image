@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.11.0
+FROM busybox:1.36.1
