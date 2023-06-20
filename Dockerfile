@@ -1,1 +1,1 @@
-FROM  docker.io/library/mariadb:10.6.14
+FROM  ceph/ceph:v16
