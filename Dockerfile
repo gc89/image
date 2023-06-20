@@ -1,1 +1,1 @@
-FROM mysql/mysql-server:5.6.51
+FROM registry.k8s.io/nginx-slim:0.8
