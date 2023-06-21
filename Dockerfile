@@ -1,1 +1,1 @@
-FROM registry:2
+FROM rancher/rancher:v2.6.11
