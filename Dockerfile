@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.47.2
+FROM quay.io/cephcsi/cephcsi:v3.10.2
