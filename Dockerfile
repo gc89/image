@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:v3.10.2
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.0
