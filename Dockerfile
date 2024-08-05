@@ -1,1 +1,1 @@
-FROM registry.k8s.io/sig-storage/csi-attacher:v4.5.0
+FROM ikubernetes/demoapp:v2.1
