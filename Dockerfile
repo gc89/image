@@ -1,1 +1,1 @@
-FROM ikubernetes/frontend:v2.3.1
+FROM ikubernetes/admin-box:v1.2
