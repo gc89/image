@@ -1,1 +1,1 @@
-FROM ikubernetes/proxy:v0.1.1
+FROM ikubernetes/demoapp:v1.0
