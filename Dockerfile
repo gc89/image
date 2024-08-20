@@ -1,1 +1,1 @@
-FROM ikubernetes/demoapp:v1.1
+FROM ikubernetes/gowebserver:v0.1.0
