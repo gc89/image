@@ -1,1 +1,1 @@
-FROM ikubernetes/admin-box:v1.2
+FROM ikubernetes/demoapp:v1.0
