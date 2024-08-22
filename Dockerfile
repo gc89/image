@@ -1,1 +1,1 @@
-FROM ikubernetes/gowebserver:v0.1.0
+FROM  docker.io/istio/examples-bookinfo-ratings-v1:1.17.0
