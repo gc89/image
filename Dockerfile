@@ -1,1 +1,1 @@
-FROM  gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:1dc88f22b885d56efc88aae8f0b3160d9bd9632bd0256847eed774e68b3a769b
+FROM  image: registry.k8s.io/ingress-nginx/controller:v1.11.3@sha256:d56f135b6462cfc476447cfe564b83a45e8bb7da2774963b00d12161112270b7
