@@ -1,2 +1,2 @@
 #FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:fec35c5d66dad3d520e39de7f4f75ec6057962401f85761c143efc902f34efe7
-FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:504e97c906a520f649a878f5b4e3cb72cf7ee8a97165023af72abfad1b70855b
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:bc5fbd977a787d2868ea1d46b1fab5537e3773a2baa15dbdfee93fe5ac607c24
