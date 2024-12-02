@@ -1,3 +1,3 @@
 #FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:fec35c5d66dad3d520e39de7f4f75ec6057962401f85761c143efc902f34efe7
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4@sha256:a9f03b34a3cbfbb26d103a14046ab2c5130a80c3d69d526ff8063d2b37b9fd3f
+FROM registry.k8s.io/ingress-nginx/controller:v1.9.6@sha256:1405cc613bd95b2c6edd8b2a152510ae91c7e62aea4698500d23b2145960ab9c
 
