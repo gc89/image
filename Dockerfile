@@ -1,3 +1,3 @@
 #FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:fec35c5d66dad3d520e39de7f4f75ec6057962401f85761c143efc902f34efe7
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:3c3ddb0e507360710161b97f4a7073dc7d49a7f603412f78c18acac0511d615a
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:e244b6003d986ae014c525dc84878afc63710c3d17d09af1abb47a607b7aeaa0
 
