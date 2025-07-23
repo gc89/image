@@ -1,3 +1,3 @@
 #FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:fec35c5d66dad3d520e39de7f4f75ec6057962401f85761c143efc902f34efe7
-FROM ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.53.0@sha256:471771d103fefa2b96eefdf4af9c4ff7494862aa621782c4ee22edad1b16c741
+FROM registry.k8s.io/ingress-nginx/controller:v1.12.4@sha256:05890cb25d37aa5cfe086614104f798f55e1eeec8dda26d9fd6f6acf0e1554a0
 
